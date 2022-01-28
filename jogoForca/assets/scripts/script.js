@@ -9,14 +9,15 @@ const indication = document.getElementById("indication");
 const bodyParts = document.getElementsByClassName("body-part");
 
 const wordList = [
-  "blue",
-  "pink",
-  "purple",
-  "black",
-  "orange",
-  "green",
-  "white",
-  "red",
+  "",
+  "steelers",
+  "texans",
+  "bills",
+  "bears",
+  "ravens",
+  "cardinals",
+  "patriots",
+  "packers"
 ];
 
 let selectedWord = null;
